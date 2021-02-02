@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="rest-with-spring-availability:war">
+    <output-path>$PROJECT_DIR$/availability/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>rest-with-spring-availability</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="rest-with-spring-availability-1.0.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="rest-with-spring-availability:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="rest-with-spring-inventory:war">
+    <output-path>$PROJECT_DIR$/inventory/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>rest-with-spring-inventory</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="rest-with-spring-inventory-1.0.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="rest-with-spring-inventory:war exploded" />
+    </root>
+  </artifact>
+</component>

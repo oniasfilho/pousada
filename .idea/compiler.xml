@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="rest-with-spring-inventory" />
+        <module name="rest-with-spring-billing" />
+        <module name="rest-with-spring-common" />
+        <module name="rest-with-spring-availability" />
+        <module name="rest-with-spring-all" />
+        <module name="rest-with-spring-booking" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="rest-with-spring" target="1.8" />
+      <module name="rest-with-spring-all" target="1.8" />
+      <module name="rest-with-spring-availability" target="1.8" />
+      <module name="rest-with-spring-billing" target="1.8" />
+      <module name="rest-with-spring-booking" target="1.8" />
+      <module name="rest-with-spring-common" target="1.8" />
+      <module name="rest-with-spring-inventory" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

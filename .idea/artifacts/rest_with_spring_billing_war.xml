@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="rest-with-spring-billing:war">
+    <output-path>$PROJECT_DIR$/billing/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>rest-with-spring-billing</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="rest-with-spring-billing-1.0.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="rest-with-spring-billing:war exploded" />
+    </root>
+  </artifact>
+</component>

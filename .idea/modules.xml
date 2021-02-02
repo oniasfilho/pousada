@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/rest-with-spring.iml" filepath="$PROJECT_DIR$/rest-with-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/all/rest-with-spring-all.iml" filepath="$PROJECT_DIR$/all/rest-with-spring-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/availability/rest-with-spring-availability.iml" filepath="$PROJECT_DIR$/availability/rest-with-spring-availability.iml" />
+      <module fileurl="file://$PROJECT_DIR$/billing/rest-with-spring-billing.iml" filepath="$PROJECT_DIR$/billing/rest-with-spring-billing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/booking/rest-with-spring-booking.iml" filepath="$PROJECT_DIR$/booking/rest-with-spring-booking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/rest-with-spring-common.iml" filepath="$PROJECT_DIR$/common/rest-with-spring-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inventory/rest-with-spring-inventory.iml" filepath="$PROJECT_DIR$/inventory/rest-with-spring-inventory.iml" />
+    </modules>
+  </component>
+</project>
